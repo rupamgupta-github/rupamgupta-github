@@ -20,9 +20,9 @@
 <a href="https://twitter.com/mrrupamgupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mrrupamgupta" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mr-rupam-gupta" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mr-rupam-gupta" height="30" width="40" /></a>
 <a href="https://instagram.com/mr_rupam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mr_rupam" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/programming yatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="programming yatra" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/programming yatra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/UCONfvDcoXtOmixz3briAORA" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mr_rupam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mr_rupam" height="30" width="40" /></a>
-<a href="https://discord.gg/#0375" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#0375" height="30" width="40" /></a>
+<a href="https://discord.gg/#0375" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mr_rupam#0375" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
