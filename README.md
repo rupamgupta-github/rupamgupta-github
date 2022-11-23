@@ -3,15 +3,15 @@
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
-- 👨‍💻 All of my projects are available at [www.programmingyatra247.blogspot.com](www.programmingyatra247.blogspot.com)
+- 👨‍💻 All of my projects are available at [www.programmingyatra.in](www.programmingyatra.in)
 
-- 📝 I regularly write articles on [www.programmingyatra247.blogspot.com](www.programmingyatra247.blogspot.com)
+- 📝 I regularly write articles on [www.programmingyatra.in](www.programmingyatra.in)
 
 - 💬 Ask me about **React.js, Node.js, Express, Javascript, Postman**
 
 - 📫 How to reach me **guptarupam.1020@gmail.com**
 
-- 📄 Know about my experiences [www.programmingyatra247.blogspot.com](www.programmingyatra247.blogspot.com)
+- 📄 Know about my experiences [www.programmingyatra.in](www.programmingyatra.in)
 
 - ⚡ Fun fact **I think I am Funny**
 
