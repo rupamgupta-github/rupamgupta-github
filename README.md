@@ -5,13 +5,13 @@
 
 - 👨‍💻 All of my projects are available at [www.programmingyatra.in](https://www.programmingyatra.in/)
 
-- 📝 I regularly write articles on [www.programmingyatra.in](www.programmingyatra.in)
+- 📝 I regularly write articles on [www.programmingyatra.in](https://www.programmingyatra.in/)
 
 - 💬 Ask me about **React.js, Node.js, Express, Javascript, Postman**
 
 - 📫 How to reach me **guptarupam.1020@gmail.com**
 
-- 📄 Know about my experiences [www.programmingyatra.in](www.programmingyatra.in)
+- 📄 Know about my experiences [www.programmingyatra.in](https://www.programmingyatra.in/)
 
 - ⚡ Fun fact **I think I am Funny**
 
