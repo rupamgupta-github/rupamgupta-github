@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **MERN Stack Development**
 
-- 👨‍💻 All of my projects are available at [www.programmingyatra.in](www.programmingyatra.in)
+- 👨‍💻 All of my projects are available at [[www.programmingyatra.in](https://www.programmingyatra.in/)](www.programmingyatra.in)
 
 - 📝 I regularly write articles on [www.programmingyatra.in](www.programmingyatra.in)
 
